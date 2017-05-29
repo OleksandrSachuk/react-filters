@@ -1,8 +1,14 @@
 import React, { Component } from 'react';
 import './App.css';
 
-export default class Home extends Component {
+class Home extends Component {
   render() {
-    <div>Home</div>
+    return(
+      <div>
+        Home
+      </div>
+    )
   }
 }
+
+export default Home

@@ -3,6 +3,8 @@ import './App.css';
 
 export default class Results extends Component {
   render() {
-    <div>Results</div>
+    return(
+      <div>Results</div>
+    )
   }
 }
