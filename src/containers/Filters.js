@@ -74,7 +74,6 @@ export default class Filters extends Component {
         onChange={this.createFilterList.bind(this)}
       />
     })
-
   }
 
   saveChoosenKeys(){
